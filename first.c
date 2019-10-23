@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// propressor drective
 int main(void){	/*this is a function name*/
 	int num;
 	num=1; //this is a assign
